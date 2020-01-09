@@ -1,0 +1,14 @@
+<h1>
+  <span data-i18n="skills.my_skills">Linha do tempo</span>
+</h1>
+<div class="archive">
+  <div class="timeline" id="timeline">
+    {% for time in site.data.index.timeline %}
+      <div class="archive-title">
+        <div class="archive-year">
+          <strong>{{ time.date }}</strong> - {{ time.description }} - <a href="{{ time.link }}">{{ time.name }}</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

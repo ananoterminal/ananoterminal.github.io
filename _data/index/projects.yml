@@ -1,0 +1,17 @@
+- name: Dicionário Virtual de Termos/Gírias da Tecnologia
+  descr: "O projeto tem como objetivo colher termos e gírias da tecnologia que são desconhecidos para as pessoas para serem usadas na produção de um dicionário virtual da tecnologia."
+  image: # image
+  github: https://github.com/ananoterminal/dictionary-slangwords-terms
+  website: # website
+
+- name: Canais no Youtube de tecnologia por mulheres
+  descr: "Repositório para reunir canais de tecnologia no youtube em que os cursos/assuntos sejam feitos por mulheres."
+  image: # image
+  github: https://github.com/ananoterminal/canais-no-youtube-de-tecnologia-por-mulheres
+  website: # website
+
+- name: Mentoria de Programação para Mulheres
+  descr: "Repositório para organizar mentoria de programação para mulheres"
+  image: # image
+  github: https://github.com/ananoterminal/mentoria-de-programacao-para-mulheres
+  website: # website

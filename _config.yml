@@ -1,0 +1,56 @@
+title: Ana no Terminal
+email: ananoterminal@gmail.com
+description: Iniciativa de Ana Paula Mendes para compartilhar conhecimento da área de computação e tecnologia em português.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll", "ana no terminal", "tecnologia"]
+
+timezone:          America/Brazil
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+owner:
+  name: Ana no Terminal
+  avatar: logo.png
+  desc: "Iniciativa de Ana Paula Mendes para compartilhar conhecimento da área de computação e tecnologia em português."
+  bio:
+  email: ananoterminal@gmail.com
+  disqus-shortname: ananoterminal
+  twitter: ananoterminal
+  facebook: ananoterminal
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ananoterminal
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: ananoterminal
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: UCjBDPBy_A8bUnyiXQrwyuxg?view_as=subscriber
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
